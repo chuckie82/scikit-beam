@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 #------------------------------
-
+# hello
 """:py:class:`AngularIntegrationM` - holds and access hierarchical geometry for generic pixel detector
 
 Usage::
